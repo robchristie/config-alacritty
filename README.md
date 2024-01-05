@@ -1,0 +1,2 @@
+# config-alacritty
+Alacritty config
